@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana;
+    font-size: 2em;
+
+}
+#submit{
+color: aliceblue;
+background-color:rgb(23, 91, 218);
+border-radius: 10px;
+padding: 7px 3px;
+
+}
+#submit:hover{
+    color: rgb(255, 255, 255);
+    background-color:rgb(1, 89, 253);
+   transform: scale(.98);
+}
+#in{
+    padding: 10px 5px;
+    text-align: left;
+}
